@@ -1,9 +1,11 @@
 {
   "name": "@tene/arglet",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "license": "Apache-2.0",
   "exports": {
     ".": "./index.ts"
   },
-  "publish": { "include": ["index.ts", "README.md", "LICENSE"] }
+  "publish": {
+    "include": ["index.ts", "README.md", "LICENSE"]
+  }
 }
