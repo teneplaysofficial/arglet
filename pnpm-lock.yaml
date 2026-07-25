@@ -21,8 +21,8 @@ importers:
         specifier: 9.1.7
         version: 9.1.7
       lint-staged:
-        specifier: 17.1.0
-        version: 17.1.0
+        specifier: 17.1.1
+        version: 17.1.1
       release-hub:
         specifier: 1.0.0-beta.1
         version: 1.0.0-beta.1(@types/node@25.0.3)
@@ -1141,8 +1141,8 @@ packages:
   kolory@1.1.2:
     resolution: {integrity: sha512-KVIhCeGn6fZAK+ueIvQ1gA9pCgUjhdAmunvbGji3hQJEuTyj7IA3pRkNaRFB30kEXSNkehg7O/DuJ0SjYPmczQ==}
 
-  lint-staged@17.1.0:
-    resolution: {integrity: sha512-d7UQRu/9ZPgfu4+hu/k0wny5GEaIxo+2jb2LJqQDkE7cHRTm1HGqNUDq5UOwsGPpjpaNAFmgAsYo3TR+i9cSJw==}
+  lint-staged@17.1.1:
+    resolution: {integrity: sha512-FnHWpSe5cPRtrDG+soOuNdBxb4XQb2gN5EqpEWKdweyqyOfpl4QSjbrz3ilcIf0WXmkiNQGZZRQ23R5YtB3TEw==}
     engines: {node: '>=22.22.1'}
     hasBin: true
 
@@ -2287,7 +2287,7 @@ snapshots:
 
   kolory@1.1.2: {}
 
-  lint-staged@17.1.0:
+  lint-staged@17.1.1:
     dependencies:
       picomatch: 4.0.5
       string-argv: 0.3.2
