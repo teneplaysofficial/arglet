@@ -60,6 +60,6 @@
     "release-hub": "1.0.0-beta.1",
     "tsdown": "0.22.13",
     "typescript": "6.0.3",
-    "vitest": "^4.0.18"
+    "vitest": "^4.1.10"
   }
 }
